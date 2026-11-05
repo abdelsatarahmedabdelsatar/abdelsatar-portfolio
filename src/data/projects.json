@@ -1,0 +1,76 @@
+[
+  {
+    "id": "flowi",
+    "name": "FLOWI",
+    "category": "Spend & Approval Management Platform",
+    "type": "professional",
+    "summary": "A web platform for employee spending requests and multi-level approval workflows.",
+    "highlights": [
+      "Contributed to modules covering request types, budgets, vendors, tax rates, users, and system integrations.",
+      "Used Claude AI agents to speed up request, budget, and approval screens, then reviewed the code."
+    ],
+    "tags": ["Approval workflows", "Budgets", "Vendors", "Tax rates", "Integrations"],
+    "image": null,
+    "liveUrl": null,
+    "repoUrl": null
+  },
+  {
+    "id": "wafra",
+    "name": "WAFRA",
+    "category": "Personal Wealth Management Platform",
+    "type": "professional",
+    "summary": "A financial tracking platform for monitoring personal assets and financial accounts.",
+    "highlights": [
+      "Supported asset tracking across bank accounts, stocks, ETFs, bonds, Sukuk, cryptocurrencies, real estate, vehicles, private companies, and collectibles.",
+      "Contributed to transaction-history views, financial charts, and dashboard data visualizations.",
+      "Used Claude to accelerate dashboard and chart components, validating all generated code for accuracy."
+    ],
+    "tags": ["Dashboards", "Financial charts", "Data visualization", "Transaction history"],
+    "image": null,
+    "liveUrl": null,
+    "repoUrl": null
+  },
+  {
+    "id": "seec",
+    "name": "SEEC",
+    "category": "Competition & Program Management Platform",
+    "type": "professional",
+    "summary": "Customer, Judge, and Admin applications supporting competition workflows.",
+    "highlights": [
+      "Supported team management, multi-step applications, judging, scoring, inquiries, complaints, feedback, reminders, and startup management.",
+      "Built features including real-time chat and phone/email verification.",
+      "Used Claude Code and Cursor to deliver multi-step forms and chat features faster, with full code review."
+    ],
+    "tags": ["Real-time chat", "Multi-step forms", "Verification", "Judging & scoring"],
+    "image": null,
+    "liveUrl": "https://client.dev.seec.bugsbytes.com/en",
+    "repoUrl": null
+  },
+  {
+    "id": "zatca",
+    "name": "ZATCA",
+    "category": "Participant & Program Management Platform",
+    "type": "professional",
+    "summary": "Customer, Judge, and Admin applications for participant, team, program, and evaluation management.",
+    "highlights": [
+      "Supported workflows for registration, team management, idea submissions, requests, evaluations, reporting, stages, groups, question sets, and judge assignments.",
+      "Used Claude AI agents to build and refactor Admin and Judge modules, reviewed against project standards."
+    ],
+    "tags": ["Registration", "Evaluations", "Reporting", "Judge assignments"],
+    "image": null,
+    "liveUrl": null,
+    "repoUrl": null
+  },
+  {
+    "id": "personal-mobile-app",
+    "name": "Personal Mobile App",
+    "category": "React Native",
+    "type": "personal",
+    "summary": "A small personal mobile app built with React Native.",
+    "highlights": [],
+    "tags": ["React Native", "Mobile"],
+    "image": null,
+    "liveUrl": null,
+    "repoUrl": null
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "degrees": [
+    {
+      "id": "luxor-bsc",
+      "degree": "Bachelor of Computer Science",
+      "institution": "Luxor University, Faculty of Computers and Information",
+      "startDate": "2016",
+      "endDate": "2020",
+      "grade": "Excellent",
+      "graduationProject": "Sign Language Recognition"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "anthropic-prompt-engineering",
+      "name": "Prompt Engineering Course",
+      "issuer": "Anthropic",
+      "date": "May 2026",
+      "credentialUrl": null
+    }
+  ],
+  "training": [
+    {
+      "id": "iti-frontend",
+      "title": "Front-End Development Trainee",
+      "organization": "Information Technology Institute (ITI)",
+      "startDate": "Apr 2022",
+      "endDate": "Jul 2022",
+      "technologies": ["React.js", "Next.js", "Angular", "TypeScript", "Node.js", "Firebase", "Tailwind CSS", "Bootstrap 5"]
+    },
+    {
+      "id": "mahara-tech-frontend",
+      "title": "Front-End Development Trainee",
+      "organization": "Mahara Tech (ITI)",
+      "startDate": "Jan 2021",
+      "endDate": "Mar 2021",
+      "technologies": ["HTML5", "CSS3", "JavaScript (ES6)", "React.js", "MongoDB"]
+    },
+    {
+      "id": "iti-smart-village",
+      "title": "IT Trainee",
+      "organization": "Information Technology Institute (ITI), Smart Village",
+      "startDate": "Jun 2018",
+      "endDate": "Aug 2018",
+      "technologies": []
+    }
+  ]
+}

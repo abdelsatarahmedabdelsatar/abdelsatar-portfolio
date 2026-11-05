@@ -1,0 +1,31 @@
+{
+  "name": "Abdelsatar Ahmed Abdelsatar",
+  "shortName": "Abdelsatar Ahmed",
+  "initials": "AA",
+  "role": "Software Engineer",
+  "specialties": ["React.js", "Next.js", "React Native", "TypeScript"],
+  "headline": "I build the web interfaces behind financial, administrative, and competition platforms.",
+  "intro": "Software Engineer with 3+ years of professional experience across React.js, Next.js, and TypeScript, currently building web applications at BIM Ventures.",
+  "location": "Qift, Qena, Egypt",
+  "email": "abdelsatarahmed77777@gmail.com",
+  "phones": ["+201201628505", "+201028173931"],
+  "photo": "/me.jpeg",
+  "resumeUrl": null,
+  "siteUrl": null,
+  "about": {
+    "paragraphs": [
+      "I'm a Software Engineer focused on the front end. I develop responsive interfaces, reusable UI components, and REST API-integrated features for products in finance, administration, and competition management.",
+      "My day-to-day stack is Next.js, React.js, TanStack, and TypeScript, styled with Tailwind CSS and Bootstrap 5. I also have a foundational background in PHP, Node.js, and MongoDB, and hands-on mobile experience with React Native.",
+      "I work with AI coding agents such as Claude Code and Cursor to deliver faster, and I review, test, and refactor all generated code before it ships. Before moving into product work, I spent nearly two years as a Teaching Assistant at ITI and taught C++ and OOP at Orange Digital Center."
+    ],
+    "highlights": [
+      { "value": "3+", "label": "Years of professional experience" },
+      { "value": "4+", "label": "Platforms contributed to" },
+      { "value": "Excellent", "label": "Graduation grade, B.Sc. Computer Science" }
+    ]
+  },
+  "languages": [
+    { "name": "Arabic", "level": "Native" },
+    { "name": "English", "level": "Very Good" }
+  ]
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "bim-ventures",
+    "role": "Web Developer",
+    "company": "BIM Ventures",
+    "location": "Saudi Arabia (Remote)",
+    "startDate": "Aug 2024",
+    "endDate": null,
+    "companyUrl": null,
+    "highlights": [
+      "Develop web pages and application features using Next.js, React.js, and TanStack technologies.",
+      "Build responsive, user-friendly interfaces aligned with product requirements.",
+      "Implement application functionality using JavaScript (ES6+) and TypeScript.",
+      "Integrate REST APIs and maintain reusable, well-organized code across web applications.",
+      "Use AI coding agents (Claude Code, Cursor) with multiple models to speed up feature implementation, then review, test, and refactor the generated code for quality, performance, and maintainability.",
+      "Use Claude Code to plan features, scaffold components and API integrations, refactor existing code, and debug issues, reviewing every change through Git diffs before committing."
+    ],
+    "technologies": ["Next.js", "React.js", "TanStack", "TypeScript", "REST APIs", "Claude Code", "Cursor"]
+  },
+  {
+    "id": "iti-teaching-assistant",
+    "role": "Teaching Assistant",
+    "company": "Information Technology Institute (ITI)",
+    "location": "Qena, Egypt",
+    "startDate": "Oct 2022",
+    "endDate": "Aug 2024",
+    "companyUrl": null,
+    "highlights": [
+      "Supported instructors with lesson planning, course preparation, and technical learning activities.",
+      "Helped students build software-development skills through practical support and technical discussions.",
+      "Reviewed assignments and evaluated student work against course requirements.",
+      "Facilitated hands-on sessions and laboratory activities."
+    ],
+    "technologies": []
+  },
+  {
+    "id": "odc-instructor",
+    "role": "Instructor (Concurrent Role)",
+    "company": "Orange Digital Center (ODC)",
+    "location": null,
+    "startDate": "Jul 2023",
+    "endDate": "Sep 2023",
+    "companyUrl": null,
+    "highlights": [
+      "Delivered software-engineering training in C++.",
+      "Taught Object-Oriented Programming (OOP) concepts and programming fundamentals.",
+      "Provided technical instruction across multiple governorates."
+    ],
+    "technologies": ["C++", "OOP"]
+  }
+]

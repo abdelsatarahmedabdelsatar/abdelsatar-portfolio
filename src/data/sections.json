@@ -1,0 +1,38 @@
+[
+  {
+    "id": "about",
+    "label": "About",
+    "title": "About me",
+    "description": null
+  },
+  {
+    "id": "experience",
+    "label": "Experience",
+    "title": "Where I've worked",
+    "description": "From teaching software fundamentals to shipping product features."
+  },
+  {
+    "id": "projects",
+    "label": "Projects",
+    "title": "Platforms I've worked on",
+    "description": "Finance, approvals, and competition management, plus a personal mobile app."
+  },
+  {
+    "id": "skills",
+    "label": "Skills",
+    "title": "Tools I work with",
+    "description": null
+  },
+  {
+    "id": "education",
+    "label": "Education",
+    "title": "Education & training",
+    "description": null
+  },
+  {
+    "id": "contact",
+    "label": "Contact",
+    "title": "Get in touch",
+    "description": "Reach me directly, or send me a message using the form below."
+  }
+]

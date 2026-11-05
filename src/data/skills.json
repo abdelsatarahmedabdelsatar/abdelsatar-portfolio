@@ -1,0 +1,66 @@
+[
+  {
+    "id": "frontend",
+    "title": "Front-End",
+    "featured": true,
+    "skills": ["React.js", "Next.js", "TypeScript", "JavaScript (ES6+)", "HTML5", "CSS3"]
+  },
+  {
+    "id": "mobile",
+    "title": "Mobile",
+    "featured": true,
+    "skills": ["React Native", "Cross-Platform Mobile Development"]
+  },
+  {
+    "id": "ui",
+    "title": "UI & Styling",
+    "featured": true,
+    "skills": ["Tailwind CSS", "Bootstrap 5", "Responsive Web Design"]
+  },
+  {
+    "id": "libraries",
+    "title": "Libraries & Tools",
+    "featured": false,
+    "skills": ["TanStack", "Formik", "AJAX", "Webpack"]
+  },
+  {
+    "id": "apis",
+    "title": "APIs & Integration",
+    "featured": false,
+    "skills": ["REST APIs", "API Integration", "Firebase"]
+  },
+  {
+    "id": "backend",
+    "title": "Back-End & Data",
+    "featured": true,
+    "skills": ["PHP (project experience)", "Node.js", "MongoDB"]
+  },
+  {
+    "id": "ai",
+    "title": "AI-Assisted Development",
+    "featured": true,
+    "skills": [
+      "Claude",
+      "Claude Code",
+      "Claude AI Agents",
+      "Cursor",
+      "ChatGPT",
+      "Gemini",
+      "Agentic Workflows",
+      "Prompt Engineering",
+      "AI Code Review"
+    ]
+  },
+  {
+    "id": "version-control",
+    "title": "Version Control",
+    "featured": false,
+    "skills": ["Git", "GitHub"]
+  },
+  {
+    "id": "additional",
+    "title": "Additional Programming",
+    "featured": false,
+    "skills": ["C++", "C#", "Object-Oriented Programming (OOP)", "Angular"]
+  }
+]
